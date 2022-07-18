@@ -2,8 +2,8 @@
 # New repo(demo)
 # User pick two numbers to sum
 
-dig1 = input("First number: ")
-dig2 = input("Second number: ")
+dig1 = int(input("First number: "))
+dig2 = int(input("Second number: "))
 
 # Add two numbers
 sum = dig1 + dig2
